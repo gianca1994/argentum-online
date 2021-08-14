@@ -4,6 +4,7 @@ Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\..\W
 Module=mod_Cofres; Codigo\mod_Cofres.bas
 Module=mod_HappyHour; Codigo\mod_HappyHour.bas
 Module=mod_Mascotas; Codigo\mod_Mascotas.bas
+Module=mod_TpPolo; Codigo\mod_TpPolo.bas
 Startup="Sub Main"
 Command32=""
 Name="Proyecto1"
