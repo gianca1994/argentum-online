@@ -6,6 +6,7 @@ Module=mod_HappyHour; Codigo\mod_HappyHour.bas
 Module=mod_Mascotas; Codigo\mod_Mascotas.bas
 Module=mod_TpPolo; Codigo\mod_TpPolo.bas
 Module=mod_Vip; Codigo\mod_Vip.bas
+Module=mod_Canjes; Codigo\mod_Canjes.bas
 Startup="Sub Main"
 Command32=""
 Name="Proyecto1"
