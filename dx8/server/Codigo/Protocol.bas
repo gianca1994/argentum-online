@@ -1,13 +1,22 @@
 Attribute VB_Name = "Protocol"
 Private Enum ServerPacketID
-
-
+    ActualizarElementosS
+    InfoPetS
+    HappyHourActivo
 End Enum
 
 
 Private Enum ClientPacketID
-
-
+    Premium
+    InfoPetC
+    Desinvocar
+    UsarElementoDaño
+    UsarElementoDistancia
+    ActualizarElementosC
+    ExchangesTICKETS
+    ExchangesKANDAHAR
+    ExchangesJUTLANDS
+    ExchangesANDRAMELECH
 End Enum
 
 
