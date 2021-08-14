@@ -1,1 +1,9 @@
-mod_AutoRegalos = 26, 26, 1018, 548, Z
+mod_AutoRegalos = 26, 26, 1018, 548, 
+mod_Cofres = 52, 52, 1044, 574, 
+mod_HappyHour = 78, 78, 1070, 600, 
+mod_Mascotas = 156, 156, 1148, 678, 
+mod_TpPolo = 182, 182, 1174, 704, 
+mod_Vip = 208, 208, 1200, 730, 
+mod_Canjes = 234, 234, 1226, 756, 
+mod_Castillo = 260, 260, 1252, 782, 
+Protocol = 0, 0, 992, 522, Z
