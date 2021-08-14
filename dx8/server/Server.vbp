@@ -8,6 +8,7 @@ Module=mod_TpPolo; Codigo\mod_TpPolo.bas
 Module=mod_Vip; Codigo\mod_Vip.bas
 Module=mod_Canjes; Codigo\mod_Canjes.bas
 Module=mod_Castillo; Codigo\mod_Castillo.bas
+Module=Protocol; Codigo\Protocol.bas
 Startup="Sub Main"
 Command32=""
 Name="Proyecto1"
